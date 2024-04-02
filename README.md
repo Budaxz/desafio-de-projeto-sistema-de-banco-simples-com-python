@@ -1,4 +1,4 @@
-Este programa simula um sistema bancário básico, permitindo que o usuário deposite, saque, visualize o extrato e saia do sistema.
+Este programa simula um sistema bancário básico, feito com Python, permitindo que o usuário deposite, saque, visualize o extrato e saia do sistema.
 
 O menu de opções é apresentado abaixo, onde o usuário pode escolher entre as seguintes opções: Depositar; Sacar; Extrato; Sair;
 
