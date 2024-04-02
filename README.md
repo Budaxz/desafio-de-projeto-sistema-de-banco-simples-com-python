@@ -1,10 +1,6 @@
 Este programa simula um sistema bancário básico, permitindo que o usuário deposite, saque, visualize o extrato e saia do sistema.
 
-O menu de opções é apresentado abaixo, onde o usuário pode escolher entre as seguintes opções:
-[d] Depositar
-[s] Sacar
-[e] Extrato
-[q] Sair
+O menu de opções é apresentado abaixo, onde o usuário pode escolher entre as seguintes opções: Depositar; Sacar; Extrato; Sair;
 
 O saldo inicial é de R$ 0 e o limite de saque é de R$ 500. Todas as transações, incluindo depósitos e saques, são registradas em um extrato.
 
